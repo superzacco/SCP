@@ -71,7 +71,10 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+<<<<<<< HEAD
 # Zacco's Ignore's
 *.mdp
 *.blend
+=======
+>>>>>>> e045f85ee0d20c5a7327db4d593468bf241ad42e
 Unity Project/Temp/UnityLockfile
