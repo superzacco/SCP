@@ -16,5 +16,5 @@ public class Spawner : MonoBehaviour
         int randFromList = Random.Range(0, roomList.Count - 1); 
         GameObject firstRoom = Instantiate(roomList[randFromList]);
     }
-
+    //Test
 }
