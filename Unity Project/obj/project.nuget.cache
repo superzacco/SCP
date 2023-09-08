@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XUnKRkaIqT3a5BIoIeHkHn4p6S2pnPPE/Wn7QrNdlw83QxER7ck7Wt9OGxTDC+4ydtKFZOUjjW2EO7QdSRXntw==",
+  "dgSpecHash": "6xIuCOagjA9mF1WX9Jr3HuRRnV83g7ubM5JWASOaGmb2bYDTcXd2ibxR2Rba+XpCpzzviGcehZgcYAoJmyrtSg==",
   "success": true,
-  "projectFilePath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Assembly-CSharp.csproj",
+  "projectFilePath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

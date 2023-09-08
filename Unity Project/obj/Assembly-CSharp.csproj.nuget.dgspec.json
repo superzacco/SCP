@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Assembly-CSharp.csproj": {}
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Assembly-CSharp.csproj": {}
   },
   "projects": {
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Assembly-CSharp.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Assembly-CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Assembly-CSharp.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Assembly-CSharp.csproj",
         "projectName": "Assembly-CSharp",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Assembly-CSharp.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Assembly-CSharp.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,68 +26,68 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.EditorCoroutines.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.EditorCoroutines.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.EditorCoroutines.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.EditorCoroutines.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Performance.Profile-Analyzer.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Performance.Profile-Analyzer.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Performance.Profile-Analyzer.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Performance.Profile-Analyzer.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.PlasticSCM.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.PlasticSCM.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.PlasticSCM.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.PlasticSCM.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Rider.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Rider.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Rider.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Rider.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TextMeshPro.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TextMeshPro.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TextMeshPro.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TextMeshPro.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TextMeshPro.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TextMeshPro.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TextMeshPro.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TextMeshPro.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Timeline.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Timeline.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Timeline.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Timeline.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Timeline.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Timeline.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Timeline.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Timeline.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.SettingsProvider.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.SettingsProvider.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.SettingsProvider.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.SettingsProvider.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Shared.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Shared.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Shared.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Shared.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualStudio.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualStudio.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualStudio.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualStudio.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VSCode.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VSCode.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VSCode.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VSCode.Editor.csproj"
               }
             }
           }
@@ -115,14 +115,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.EditorCoroutines.Editor.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.EditorCoroutines.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.EditorCoroutines.Editor.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.EditorCoroutines.Editor.csproj",
         "projectName": "Unity.EditorCoroutines.Editor",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.EditorCoroutines.Editor.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.EditorCoroutines.Editor.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -137,11 +137,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -169,14 +169,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Performance.Profile-Analyzer.Editor.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Performance.Profile-Analyzer.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Performance.Profile-Analyzer.Editor.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Performance.Profile-Analyzer.Editor.csproj",
         "projectName": "Unity.Performance.Profile-Analyzer.Editor",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Performance.Profile-Analyzer.Editor.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Performance.Profile-Analyzer.Editor.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -191,11 +191,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -223,14 +223,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.PlasticSCM.Editor.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.PlasticSCM.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.PlasticSCM.Editor.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.PlasticSCM.Editor.csproj",
         "projectName": "Unity.PlasticSCM.Editor",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.PlasticSCM.Editor.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.PlasticSCM.Editor.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -245,11 +245,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -277,14 +277,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Rider.Editor.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Rider.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Rider.Editor.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Rider.Editor.csproj",
         "projectName": "Unity.Rider.Editor",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Rider.Editor.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Rider.Editor.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -299,11 +299,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -331,14 +331,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Settings.Editor.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Settings.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Settings.Editor.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Settings.Editor.csproj",
         "projectName": "Unity.Settings.Editor",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Settings.Editor.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Settings.Editor.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -353,11 +353,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -385,14 +385,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.csproj",
         "projectName": "Unity.TestTools.CodeCoverage.Editor",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -407,20 +407,20 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Settings.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Settings.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Settings.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Settings.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -448,14 +448,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj",
         "projectName": "Unity.TestTools.CodeCoverage.Editor.OpenCover.Model",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -470,11 +470,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -502,14 +502,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj",
         "projectName": "Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -524,11 +524,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -556,14 +556,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TextMeshPro.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TextMeshPro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TextMeshPro.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TextMeshPro.csproj",
         "projectName": "Unity.TextMeshPro",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TextMeshPro.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TextMeshPro.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -603,14 +603,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TextMeshPro.Editor.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TextMeshPro.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TextMeshPro.Editor.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TextMeshPro.Editor.csproj",
         "projectName": "Unity.TextMeshPro.Editor",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TextMeshPro.Editor.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TextMeshPro.Editor.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -625,14 +625,14 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TextMeshPro.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.TextMeshPro.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TextMeshPro.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.TextMeshPro.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -660,14 +660,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Timeline.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Timeline.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Timeline.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Timeline.csproj",
         "projectName": "Unity.Timeline",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Timeline.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Timeline.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -707,14 +707,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Timeline.Editor.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Timeline.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Timeline.Editor.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Timeline.Editor.csproj",
         "projectName": "Unity.Timeline.Editor",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Timeline.Editor.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Timeline.Editor.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -729,14 +729,14 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Timeline.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.Timeline.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Timeline.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.Timeline.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -764,14 +764,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj",
         "projectName": "Unity.VisualScripting.Core",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -811,14 +811,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.Editor.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.Editor.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.Editor.csproj",
         "projectName": "Unity.VisualScripting.Core.Editor",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.Editor.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.Editor.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -833,14 +833,14 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -868,14 +868,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.csproj",
         "projectName": "Unity.VisualScripting.Flow",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -890,8 +890,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj"
               }
             }
           }
@@ -919,14 +919,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.Editor.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.Editor.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.Editor.csproj",
         "projectName": "Unity.VisualScripting.Flow.Editor",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.Editor.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.Editor.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -941,20 +941,20 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -982,14 +982,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.SettingsProvider.Editor.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.SettingsProvider.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.SettingsProvider.Editor.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.SettingsProvider.Editor.csproj",
         "projectName": "Unity.VisualScripting.SettingsProvider.Editor",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.SettingsProvider.Editor.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.SettingsProvider.Editor.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1004,26 +1004,26 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -1051,14 +1051,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Shared.Editor.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Shared.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Shared.Editor.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Shared.Editor.csproj",
         "projectName": "Unity.VisualScripting.Shared.Editor",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Shared.Editor.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Shared.Editor.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1073,29 +1073,29 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -1123,14 +1123,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.csproj",
         "projectName": "Unity.VisualScripting.State",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1145,11 +1145,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.csproj"
               }
             }
           }
@@ -1177,14 +1177,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.Editor.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.Editor.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.Editor.csproj",
         "projectName": "Unity.VisualScripting.State.Editor",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.Editor.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.Editor.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1199,26 +1199,26 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Core.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Core.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.Editor.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.Flow.Editor.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.Flow.Editor.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualScripting.State.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualScripting.State.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -1246,14 +1246,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualStudio.Editor.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualStudio.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualStudio.Editor.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualStudio.Editor.csproj",
         "projectName": "Unity.VisualStudio.Editor",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VisualStudio.Editor.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VisualStudio.Editor.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1268,11 +1268,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -1300,14 +1300,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VSCode.Editor.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VSCode.Editor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VSCode.Editor.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VSCode.Editor.csproj",
         "projectName": "Unity.VSCode.Editor",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\Unity.VSCode.Editor.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\Unity.VSCode.Editor.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1322,11 +1322,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj"
               },
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -1354,14 +1354,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj",
         "projectName": "UnityEditor.TestRunner",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEditor.TestRunner.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEditor.TestRunner.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1376,8 +1376,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
-                "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj"
+              "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj"
               }
             }
           }
@@ -1405,14 +1405,14 @@
         }
       }
     },
-    "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj": {
+    "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj",
+        "projectUniqueName": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj",
         "projectName": "UnityEngine.TestRunner",
-        "projectPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\UnityEngine.TestRunner.csproj",
+        "projectPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\UnityEngine.TestRunner.csproj",
         "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
-        "outputPath": "e:\\Desktop\\games or whatever\\Unity\\Projects\\SCP\\obj\\",
+        "outputPath": "e:\\Desktop\\games or whatever\\SCP\\Unity Project\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config"
