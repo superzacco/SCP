@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\Unity.EditorCoroutines.Editor.csproj": {}
+  },
+  "projects": {
+    "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\Unity.EditorCoroutines.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\Unity.EditorCoroutines.Editor.csproj",
+        "projectName": "Unity.EditorCoroutines.Editor",
+        "projectPath": "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\Unity.EditorCoroutines.Editor.csproj",
+        "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\UnityEditor.TestRunner.csproj": {
+                "projectPath": "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\UnityEditor.TestRunner.csproj"
+              },
+              "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\UnityEditor.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\UnityEngine.TestRunner.csproj": {
+                "projectPath": "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\UnityEngine.TestRunner.csproj",
+        "packagesPath": "C:\\Users\\zkmuf\\.nuget\\packages\\",
+        "outputPath": "E:\\Desktop\\games or whatever\\SCP\\SCP Game\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\zkmuf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
