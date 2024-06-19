@@ -70,11 +70,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
-
-<<<<<<< HEAD
-# Zacco's Ignore's
-*.mdp
-*.blend
-=======
->>>>>>> e045f85ee0d20c5a7327db4d593468bf241ad42e
-Unity Project/Temp/UnityLockfile
+/SCP Game/Library
+/SCP Game/Library/Bee
+/SCP Game/Temp
+/SCP Game/Logs
+/SCP Game/Library
+/SCP Game/Library/Bee
+/SCP Game/Temp/obj/Debug/Unity.Rider.Editor
+/SCP Game/UserSettings
+/SCP Game/Temp/obj/Debug
+/SCP Game/Temp/obj
+/SCP Game/Temp
