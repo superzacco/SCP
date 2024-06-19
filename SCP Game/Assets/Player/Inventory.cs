@@ -61,6 +61,10 @@ public class Inventory : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Tab) && inventoryOpen)
         {
+            ReturnToSameSlot(); 
+            hoveringOverSlotDropArea = false;
+            hoveredSlot = itemOriginSlot;
+
             inventoryScreen.SetActive(false);
 
             Cursor.lockState = CursorLockMode.Locked;
@@ -91,13 +95,13 @@ public class Inventory : MonoBehaviour
             }
         }
 
-        if (Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0) && inventoryOpen)
         {
             itemInHand = inventoryItemsArray[hoveredSlot];
             itemOriginSlot = hoveredSlot;
         }
 
-        if (Input.GetMouseButton(0))
+        if (Input.GetMouseButton(0) && inventoryOpen)
         {
             Vector2 anchoredPos;
             RectTransformUtility.ScreenPointToLocalPointInRectangle(slotItemImages.GetComponent<RectTransform>(), Input.mousePosition, Camera.main, out anchoredPos);
@@ -107,7 +111,7 @@ public class Inventory : MonoBehaviour
             itemImageInHand.anchoredPosition = anchoredPos - reAdjust * new Vector2(-1, 1);
         }
 
-        if (Input.GetMouseButtonUp(0) && itemInHand != null)
+        if (Input.GetMouseButtonUp(0) && itemInHand != null && inventoryOpen)
         {
             if (hoveringOverSlotDropArea)
             {
