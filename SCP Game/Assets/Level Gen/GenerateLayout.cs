@@ -6,6 +6,9 @@ public class GenerateLayout : MonoBehaviour
     [InspectorButton("ButtonNewLayout")]
     public bool NewLayout;
 
+    [InspectorButton("GenerateRandomRooms")]
+    public bool GenerateRoom;
+
     [Header("Settings")]
     private GameObject[,] gameobjectGridArray;
 
@@ -15,6 +18,7 @@ public class GenerateLayout : MonoBehaviour
 
     [SerializeField] private List<GameObject> tempList;
     [SerializeField] private GameObject randomFromList;
+    [SerializeField] private List<GameObject> allSpawnedRooms;
     private GameObject spawnedStuff;
 
     [Header("Light Containment")]
@@ -23,6 +27,8 @@ public class GenerateLayout : MonoBehaviour
     [SerializeField] private int longHallLeftOffset;
 
     [SerializeField] private int connectingHallLength;
+    [SerializeField] private int roomSpawnChance;
+    [SerializeField] private int roomSpawnAttempts;
 
     void Awake()
     {
@@ -38,20 +44,7 @@ public class GenerateLayout : MonoBehaviour
     void CreateGrid()
     {
         gameobjectGridArray = new GameObject[width, height];
-
         spawnedStuff = new GameObject("Spawned Stuff");
-
-        // for (int w = 0; w < width; w++)
-        // {
-        //     for (int h = 0; h < height; h++)
-        //     {
-        //         GameObject spawnedObj = new GameObject(h + ", " + w);
-        //         spawnedObj.transform.position = new Vector3(w, 0, h) * spaceBetweenGridCells;
-        //         spawnedObj.transform.parent = spawnedStuff.transform;
-
-        //         grid[w,h] = spawnedObj;
-        //     }
-        // }
 
         GenerateLongHallways();
     }
@@ -92,11 +85,25 @@ public class GenerateLayout : MonoBehaviour
                     GameObject chosenHallBranchRoom = tempList[spawnDistance + randomDistance];
                     GameObject connectingHallRoom = GameObject.CreatePrimitive(PrimitiveType.Cube);
 
+                    connectingHallRoom.GetComponent<MeshRenderer>().material.color = Color.red;
+
                     PositionRoom(connectingHallRoom, (int)chosenHallBranchRoom.transform.position.x / spaceBetweenGridCells, (int)chosenHallBranchRoom.transform.position.z / spaceBetweenGridCells + i + 1);
                 }
                 
                 spawnDistance += randomDistance;
                 randomDistance = Random.Range(2, 6);
+            }
+        }
+    }
+    
+    void GenerateRandomRooms()
+    {
+        for (int i = 0; i < roomSpawnAttempts; i++)
+        {
+            if (ZaccoUtil.PercentChance(roomSpawnChance))
+            {
+                GameObject chosenNearbyRoom = allSpawnedRooms[Random.Range(0, allSpawnedRooms.Count)];
+                Destroy(chosenNearbyRoom);
             }
         }
     }
@@ -107,17 +114,25 @@ public class GenerateLayout : MonoBehaviour
         gameobjectGridArray[posX, posZ] = room;
 
         room.transform.parent = spawnedStuff.transform;
+        allSpawnedRooms.Add(room);
     }
     
     void DestroyLevel()
     {
         Destroy(spawnedStuff);
+
         foreach (GameObject ob in tempList)
         {
             Destroy(ob);
         }
-        tempList.Clear();
 
+        foreach (GameObject ob in allSpawnedRooms)
+        {
+            Destroy(ob);
+        }
+
+        tempList.Clear();
+        allSpawnedRooms.Clear();
 
         Debug.Log("Level gone!");
     }
